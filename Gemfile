@@ -7,6 +7,7 @@ gem 'rails', '3.0.0'
 
 gem "mongoid" 
 gem "bson_ext", "1.0.4"
+gem 'devise'
 
 # Use unicorn as the web server
 # gem 'unicorn'
